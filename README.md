@@ -16,6 +16,7 @@ Not sure if they are awesome, but listing them anyway
 | [vega](https://github.com/rajasekarv/vega)                                                                          | Rust                                  | Big            | Another Spark killer in Rust                                              |
 | [vaex](https://www.google.com/search?q=vaex&oq=vaex&aqs=chrome.0.69i59l3j69i60l4.2540j0j7&sourceid=chrome&ie=UTF-8) | Python                                | Medium/Big     |                                                                           |
 | [tuplex](https://tuplex.cs.brown.edu/)                                                                              | Python                                | Medium/Big     | Compiles a subset of Python to machine code if possible.                  |
+| [nebula](https://github.com/varchar-io/nebula) | Medium/Big? | seems to be Javascript based |
 
 
 ## File Formats
